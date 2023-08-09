@@ -38,6 +38,6 @@ Embark on exciting adventures with ReactTrip, your trusty React Native travel co
 
 ## Let's Connect
 
-Eager to bond with fellow creators, tech aficionados, and design aficionados. Let's strike up a conversation on [LinkedIn](https://www.linkedin.com/in/yourprofile) or [Twitter](https://twitter.com/yourhandle).
+Eager to bond with fellow creators, tech aficionados, and design aficionados. Let's strike up a conversation on [LinkedIn](https://www.linkedin.com/in/suyash-srivastav-590459134/) or [Twitter](https://twitter.com/SuyashSrivastv).
 
 Together, let's paint the mobile canvas with innovation and marvels! 📱🎨
